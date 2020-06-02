@@ -1,1 +1,3 @@
-# .NET-GerenciamentoComponentesGraficos1
+# Repositório de gerenciamento de componentes gráficos
+
+-FlowLayoutPanel
