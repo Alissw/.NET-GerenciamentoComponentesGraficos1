@@ -1,6 +1,7 @@
 using System;
 using System.Windows.Forms;
 using Flow;
+using Table;
 
 namespace _NET_GerenciamentoComponentesGraficos1
 {
@@ -15,7 +16,7 @@ namespace _NET_GerenciamentoComponentesGraficos1
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Form2());
         }
     }
 }
